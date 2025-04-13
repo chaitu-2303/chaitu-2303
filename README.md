@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @chaitu-2303
-- 👀 I’m interested in python
+- 👀 I’m interested in [I don't no still thinkng]
 - 🌱 I’m currently learning python full stack development
 - 💞️ Currently I’m not looking to collaborate on anything
 - 📫 How to reach me (i wil update soon)
